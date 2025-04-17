@@ -1,6 +1,6 @@
 # 📄 Zaheen Khan — Resume
 
-Welcome to my resume repository! This is a centralized place to access and view my latest professional resume in PDF format. I'm a recent graduate with a strong passion for backend development, clean code, and building scalable systems.  
+Welcome to my resume repository! This is a centralized place to access and view my latest professional resume in PDF format. I'm a recent graduate with a strong passion for development, clean code, and building scalable systems.  
 
 Outside the world of code, I’m deeply into photography 📷 and a big-time Formula 1 enthusiast 🏎️. I enjoy capturing moments through the lens and following the fast-paced world of motorsport.
 
@@ -14,7 +14,7 @@ Outside the world of code, I’m deeply into photography 📷 and a big-time For
 
 ## 📂 What's inside
 
-- `Zaheen-Khan_Resume-2025.pdf` — My latest resume (updated: April 2025)
+- [Zaheen-Khan_Resume-2025.pdf](https://zo-in.github.io/resume/Zaheen-Khan_Resume-2025.pdf) — My latest resume
 
 ## 🛠 Tech Highlights
 
